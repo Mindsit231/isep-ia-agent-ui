@@ -1,0 +1,45 @@
+
+.main .block-container {
+    max-width: 1400px;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+
+.genai-card {
+    background-color: #020617;
+    border-radius: 16px;
+    padding: 1.5rem 2rem;
+    border: 1px solid #1f2937;
+}
+
+.genai-section-title {
+    border-bottom: 1px solid #1f2937;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+
+.genai-chat-user {
+    background-color: #1d4ed8;
+    border-radius: 12px;
+    padding: 0.8rem 1rem;
+    margin: 0.3rem 0;
+    color: #e5e7eb;
+}
+
+.genai-chat-assistant {
+    background-color: #020617;
+    border-radius: 12px;
+    padding: 0.8rem 1rem;
+    margin: 0.3rem 0;
+    border: 1px solid #1f2937;
+}
+
+
+.genai-footer {
+    font-size: 0.8rem;
+    color: #6b7280;
+    margin-top: 2rem;
+    text-align: center;
+}
